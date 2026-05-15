@@ -1,5 +1,15 @@
 # 💫 About Me:
-🚩 I’m currently working on Full Stack MERN projects & backend development<br><br>👯 I’m looking to collaborate on web development and open-source projects<br><br>🤝 I’m looking for help with advanced backend concepts & system design<br><br>🌱 I’m currently learning DSA (C/Java), MERN stack, JWT auth, and GATE CSE<br><br>💬 Ask me about C, Java, Linux, web dev, and debugging<br><br>⚡ Fun fact: I debug websites for fun 😄
+🚩 I’m currently working on improving my programming and web development skills
+
+👯 I’m looking to collaborate on beginner-friendly projects and learn from others
+
+🤝 I’m looking for help with DSA, backend development, and open source contribution
+
+🌱 I’m currently learning C, Java, MERN stack, and problem solving
+
+💬 Ask me about my learning journey, coding practice, and tech interests
+
+⚡ Fun fact: I love exploring how technology works behind the scenes
 
 
 ## 🌐 Socials:
